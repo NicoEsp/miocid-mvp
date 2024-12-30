@@ -16,3 +16,5 @@ El proyecto se encuentra en etapa de Discovery para validar cual es la mejor sol
 30/10/24 -> Luego de una pequeña ronda de feedback, pasamos a una versión simplificada. Mucho más orientada a los otros dos casos de uso, descartando uno en el camino para no perder el foco en el problema.
 
 18/11/24 -> Levantando el proyecto desde cero debido a un error en la estructura que no contemplaba ciertos casos de uso.
+
+30/12/24 -> Después de unos días de descanso, se retoma el proyecto con una nueva lógica en mente. Expectante de validar con usuarios que les haga sentido este producto.
