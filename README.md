@@ -1,20 +1,36 @@
-# miocid-mvp2
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-_Probando algunas ideas inspirado en el poema "Cantar del Mio Cid"_
+## Getting Started
 
-Para más información sobre las posibles ideas iniciales de cómo abordar el problema identificado, consultar este documento 👇🏻 
-https://www.notion.so/lanicocueva/LibroAmigo-Mio-Cid-4e80fec4394a42fb976a8775bf74f897
+First, run the development server:
 
-El proyecto se encuentra en etapa de Discovery para validar cual es la mejor solución sin complejizar la cadena de valor actual.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-------
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Changelog**
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-22/10/24 -> Validación con posibles usuarios sobre los puntos de dolor. Realizado con versión inicial para los tres casos de uso principales.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-30/10/24 -> Luego de una pequeña ronda de feedback, pasamos a una versión simplificada. Mucho más orientada a los otros dos casos de uso, descartando uno en el camino para no perder el foco en el problema.
+## Learn More
 
-18/11/24 -> Levantando el proyecto desde cero debido a un error en la estructura que no contemplaba ciertos casos de uso.
+To learn more about Next.js, take a look at the following resources:
 
-30/12/24 -> Después de unos días de descanso, se retoma el proyecto con una nueva lógica en mente. Expectante de validar con usuarios que les haga sentido este producto.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
